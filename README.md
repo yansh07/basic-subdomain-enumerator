@@ -1,12 +1,8 @@
-# basic-subdomain-enumerator
-Subdomain enumerator
-It is created using:
-1. python3
-2. socket
-3. re(regular expression)
-4. datetime
-5. colorama
-6. threadpoolexecutor
+# Subdomain-enumerator 🌐   
+*Tech used: Python, Threadpoolexecutor, socket, regex, colorama*   
+--> You can use this program to scan and find the hidden sud-domains for any domain/website.  
 
-This code can find all possible subdomains of any given domain using socket and also can find IP address of that subdomain.
-It uses multithreading to make enumeration fast and efficient, it repsects your time.
+ ## Features:-  
+ 1. Multithreading - For fast scanning my allowing multiprocesses.
+ 2. Efficient and consistent results.
+ 3. Also gives IP Address of the sub-domain, so we can do more with IPs.  
